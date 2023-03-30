@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba de prepcourse de henry
+este es una prueba de como crear un repositorio en la nube y clonarlo desde github a mi computadora local
